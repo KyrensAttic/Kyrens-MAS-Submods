@@ -1,7 +1,3 @@
-#In terms of motivation, we don't have motivation. Ahaha!
-
-#Question 1
-
 init 5 python:
     addEvent(Event(persistent.event_database,eventlabel="masdialogue_sexualityquestion",category=['questions','you','monika','misc','sexuality'],prompt="What's your sexuality?",pool=True,unlocked=True))
 
